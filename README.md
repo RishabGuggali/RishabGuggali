@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###BADGES
+### GITHUB TROPHIES, STATISTICS, BADGES
+
+
 <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/spandey1296)  <br>
 
